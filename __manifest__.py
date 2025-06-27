@@ -5,7 +5,7 @@
     'summary': 'Fixes SIAT integer conversion for website payments',
     'category': 'Accounting',
     'author': 'https://www.franciscotech.xyz/',
-    'depends': ['payment'],
+    'depends': ["siat",'payment'],
     'data': [],
     'installable': True,
     'application': False,
